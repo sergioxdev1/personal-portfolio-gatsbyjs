@@ -1,0 +1,18 @@
+{
+    "data":{
+        "email":"sergio@pixcomp.com",
+        "username":"SergioPixcomp",
+        "certificates":[ ],
+        "articles":[ ],
+        "courses":[
+            {"title":"Crea un sitio personal con Gatsby",
+                "progress":"100.0",
+                "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"},
+            {"title":"Curso Profesional de Android",
+                "progress":"100.0",
+                "url":"http://codigofacilito.com/courses/android-profesional"},
+            {"title":"Curso de Fundamentos de React",
+                "progress":"100.0",
+                "url":"http://codigofacilito.com/courses/react-intro-gratis"}
+            ],"finished_courses":[]},"errors":[]
+        }
